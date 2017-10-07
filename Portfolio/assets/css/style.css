@@ -13,6 +13,7 @@ body {
 
 .jumbotron {
     margin: 0;
+    padding: 50px;
 }
 
 #about {
@@ -46,7 +47,7 @@ button {
     color: #fff;
 }
 
-#copyright {
+#footer {
     background-color: #222222;
     color: #fff;
     width: 100%;
@@ -56,6 +57,11 @@ button {
 .contact-box {
     margin: 50px auto;
     width: 50%;
+}
+
+.profile-header {
+    background-color: #222222;
+    color: #fff;
 }
 
 
